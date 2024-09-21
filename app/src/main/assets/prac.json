@@ -1,0 +1,27 @@
+{
+
+  "users": [
+
+    {
+
+      "name": "Aaisha Qazi",
+
+      "designation": "Team Leader",
+
+      "location": "Mumbai"
+
+    },
+
+    {
+
+      "name": "Faraz",
+
+      "designation": "Agricultural Officer",
+
+      "location": "Ratnagiri"
+
+    }
+
+  ]
+
+}
